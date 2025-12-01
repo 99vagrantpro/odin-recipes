@@ -1,0 +1,1 @@
+Hello.  This is the README file for my odin-recipes course project.  I will be exercising my skills at coding a website in HTML.  I'm following the directions found in "The Odin Project" Foundations course, on the page titled "Project: Recipes".  I'm hoping to show my knowledge of HTML and how the basics work.  

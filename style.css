@@ -1,0 +1,37 @@
+*{
+    background-color: grey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+
+}
+h1{
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.recipe{
+    color: darkblue;
+}
+a{
+    color: yellow;
+}
+ol{
+    color: yellow;
+}
+ul{
+    color: yellow;
+}
+h2{
+    color: orange;
+}
+h3{
+    color: orange;
+}
+div{
+    color: orange;
+}
+p{
+    color: yellow;
+    padding: 5px;
+    margin: 5px;
+}
